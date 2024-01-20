@@ -18,23 +18,23 @@ Nama project ini adalah Web Topup Pulsa dan Paket, sebuah platform yang bertujua
 
 ### ⚙️Teknologi yang dipakai di Website:
 ----------------
-- HTML/CSS       
-- Bootstrap
-- React JS
-- Express JS
-- Node JS
-- Body parser 
-- Express validator
-- Morgan 
-- Sequelize
-- Json web token
-- Mysql2
-- Bulma 
-- Redux 
-- Axios 
-- React router-dom
-- React icon 
-- React script
+HTML/CSS       
+Bootstrap
+React JS
+Express JS
+Node JS
+Body parser 
+Express validator
+Morgan 
+Sequelize
+Json web token
+Mysql2
+Bulma 
+Redux 
+Axios 
+React router-dom
+React icon 
+React script
 
 ![image](https://github.com/Squeeze101/PROJEK-AKHIR-WSII-KELOMPOK6/assets/94736858/5b8f5a05-727a-4a70-818e-0ef5625a961c)
 
